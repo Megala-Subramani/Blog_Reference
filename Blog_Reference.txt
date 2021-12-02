@@ -1,0 +1,62 @@
+Docker_ReactJs_EmpDetails 
+Title : [Docker][Containerized ReactJs]Displaying and updating employee infomation.
+Desc : Created the Dockerized container to reactjs application which can update and display employee info.
+Docker pull command [From docker hub]: docker pull docker64me/emp_details_rjs
+Git-hub link:
+Docker-hub link:
+
+Docker_ReactNative_Expo_ToDoListApp
+Title:[Docker][Containerized ReactNative]Created NOTES app using expo-cli 
+Desc: Created the Dockerized container to react native 'NOTES' app.	
+Docker Pull command [From docker hub]: docker pull docker64me/todolist_expo_rn
+Git-hub link:
+Docker-hub link: https://hub.docker.com/repository/docker/docker64me/todolist_expo_rn
+
+ReactNative-Employee-CURD
+Title: [React Native]Created Employee Details App in android platform
+This App has the capability of doing CURD operation. We are using 'Context' concept to maintain background data
+
+
+ReactNative-PasswordManager
+Title:[React Native]Created Password Manager App to maintain Email Accounts , Card Details data.
+It is a mini Project.This app getting started with slider page and security pin-code option and includes Generate Password feature based user-defined values.
+
+ReactNative-Notes-App 
+Title: [React Native]Created Notes App to maintain rough datas.
+This is similar to sticky Notes. We are using 'Asyncstorage' concept to maintain background data.
+
+
+ReactJS-CountryList:
+Title : [ReactJs]Implmented List of counties with search Bar.
+we have included dynamic search result concept.
+Git-hub link:
+
+ReactJs-CRUD-using-Redux
+Title: [ReactJs]Implmented EmployeeDetails in table form.
+We have include the employee add,update & delete option using ReactJs Redux concept. 
+We have used Rest-API to fetch data from server.
+Git-hub link:
+
+ReactJs-HOC
+Title: [ReactJS]Implemented simple page with HOC concept
+HOC helps to create same functionlity frame for three varient dataset.
+Git-hub link:
+
+ReactJS-Route-OnlineShopping
+Title: [ReactJs]Implemented Shopping Page using ReactJs routing concept.
+We have used Browser routing concept to implement this page.
+Git-hub link:
+
+AngularJs-Route-BasicWebsite / AngularJs-UI_Route_BasicWebSite 
+Title:[AngularJs]Implemented Basic website using Route & UI route concept.
+Basic website container has Header,Footer,Side Bar and Body.we are routeing the page based on side Bar content selection.
+UI Route git-hub link:
+Route git-hub link
+
+AngularJs-Route-ShoppingPage 
+Title: [AngularJs]Implemented Shopping Page.
+we have used main directives,controller,event,scope and services while implementing this page.
+Git-hub link: https://github.com/Megala-Subramani/AngularJs-Route-ShoppingPage
+
+
+
